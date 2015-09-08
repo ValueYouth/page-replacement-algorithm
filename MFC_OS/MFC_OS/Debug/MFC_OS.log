@@ -1,0 +1,32 @@
+﻿生成启动时间为 2015/6/15 16:10:39。
+     1>项目“C:\Users\Youth\Documents\_MyDocuments\编程相关的资料\操作系统\MFC_OS\MFC_OS\MFC_OS.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\MFC_OS.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\MFC_OS.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt MainFrm.cpp MFC_OS.cpp MFC_OSDoc.cpp MFC_OSView.cpp MyFrame.cpp RunPro.cpp SplashWnd.cpp
+         SplashWnd.cpp
+         RunPro.cpp
+         MyFrame.cpp
+         MFC_OSView.cpp
+         MFC_OSDoc.cpp
+         MFC_OS.cpp
+         MainFrm.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\MFC_OS.res" MFC_OS.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Youth\Documents\_MyDocuments\编程相关的资料\操作系统\MFC_OS\Debug\MFC_OS.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\Youth\Documents\_MyDocuments\编程相关的资料\操作系统\MFC_OS\Debug\MFC_OS.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Youth\Documents\_MyDocuments\编程相关的资料\操作系统\MFC_OS\Debug\MFC_OS.lib" /MACHINE:X86 Debug\MFC_OS.res
+         Debug\MainFrm.obj
+         Debug\MFC_OS.obj
+         Debug\MFC_OSDoc.obj
+         Debug\MFC_OSView.obj
+         Debug\MyFrame.obj
+         Debug\RunPro.obj
+         Debug\SplashWnd.obj
+         Debug\stdafx.obj
+         MFC_OS.vcxproj -> C:\Users\Youth\Documents\_MyDocuments\编程相关的资料\操作系统\MFC_OS\Debug\MFC_OS.exe
+     1>已完成生成项目“C:\Users\Youth\Documents\_MyDocuments\编程相关的资料\操作系统\MFC_OS\MFC_OS\MFC_OS.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:07.96
